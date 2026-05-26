@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+conversation_log.md
+logs/
+*.log
